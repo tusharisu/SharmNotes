@@ -6,7 +6,7 @@ layout: default
 title: Notes
 ---
 {% for post in site.posts %}
-  <div id="post-short">
+  <div style="padding-bottom:50px;" id="post-short">
     <a href="{{site.url}}{{site.baseurl}}{{post.url}}">
       <h3>{{post.title}}</h3>
     </a>
@@ -17,7 +17,6 @@ title: Notes
       {% else %}
         {{ post.content }}
       {% endif %}
-      <br>
           <a href="{{site.url}}{{site.baseurl}}{{post.url}}">
       <b>Read More...</b>
     </a>
