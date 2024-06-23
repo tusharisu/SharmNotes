@@ -6,11 +6,11 @@ layout: default
 title: Notes
 ---
 {% for post in site.posts %}
-  <div style="padding-bottom:50px;" id="post-short">
+  <div style="padding-bottom:25px;" id="post-short">
     <a href="{{site.url}}{{site.baseurl}}{{post.url}}">
       <h3>{{post.title}}</h3>
     </a>
-    <i>posted on {{ post.date | date: "%-d %b %Y" }}</i>
+    <i>{{ post.date | date: "%-d %b %Y" }}</i>
     <p>
       {% if post.excerpt %}
         {{ post.excerpt }}
