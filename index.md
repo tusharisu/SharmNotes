@@ -17,6 +17,10 @@ title: Notes
       {% else %}
         {{ post.content }}
       {% endif %}
+      <br>
+          <a href="{{site.url}}{{site.baseurl}}{{post.url}}">
+      <b>Read More...</b>
+    </a>
     </p>
   </div>
 {% endfor %}
