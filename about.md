@@ -4,8 +4,12 @@ title: About
 permalink: /about/
 ---
 
-### Minimalist
-Minimalist is a simple and light weighted [jekyll](http://jekyllrb.com/) theme. It focuses on a minimalistic design but still providing all functionality for a personal blog. For more information, e.g. how to use it, check out the [repository's](https://github.com/Trybnetic/minimalist) [Readme](https://github.com/Trybnetic/minimalist/blob/master/README.md).
+I make the data talk… or vice versa! 
 
-### Jekyll
-[Jekyll](http://jekyllrb.com/) is a simple, ruby-based, static site generator. Jekyll generates beautifully static sites from simple text documents such as markdown. Check also the [jekyll documentation](http://jekyllrb.com/docs/home/) for what you can do with it.
+I am a detail-oriented, responsible, and dedicated data professional with a "get-it-done" attitude and a passion for delivering high-quality results. My problem-solving skills are paired with a customer-centric approach, empowering organizations to innovate and make data-driven decisions. I excel in working within agile/scrum project management frameworks, enabling teams to deliver value to their customers with efficiency.
+
+My true joy lies in training both technical and non-technical users, while also crafting efficient and modern database solutions. My focus extends beyond just accuracy and precision; I actively seek opportunities for automation.
+
+One of the projects that kickstarted my professional journey and shaped my expertise is Data Segmentation, a field I am deeply passionate about. I leverage this skill every day to drive successful business and data projects.
+
+I have a genuine love for discussing and presenting on topics related to data. To date, I have had the privilege of delivering guest lectures at Iowa State University on Organizational Behavior, Project Management, Data Segmentation, Data Migration, and Agile Methodology. I have also been featured as a podcast guest on Alma Matters.
